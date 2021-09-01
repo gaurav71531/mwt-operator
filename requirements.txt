@@ -1,0 +1,5 @@
+sympy
+jupterlab
+scipy
+h5py
+matplotlib
