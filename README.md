@@ -46,5 +46,13 @@ python test_NS_MWT_N_10000.py
 ## Citation
 If you use this code, or our work, please cite:
 ```
+@misc{gupta2021multiwavelet,
+      title={Multiwavelet-based Operator Learning for Differential Equations}, 
+      author={Gaurav Gupta and Xiongye Xiao and Paul Bogdan},
+      year={2021},
+      eprint={2109.13459},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 
 ```
