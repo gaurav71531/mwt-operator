@@ -2,7 +2,8 @@
 
 ![Image](resources/mwtMain.png)
 Gaurav Gupta, Xiongye Xiao, and Paul Bogdan\
-**Multiwavelet-based Operator Learning for Differential Equations**
+**Multiwavelet-based Operator Learning for Differential Equations**\
+In NeurIPS 2021. [arXiv:2109.13459](https://arxiv.org/abs/2109.13459)
 
 
 ## Setup
