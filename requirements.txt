@@ -1,5 +1,5 @@
 sympy
-jupterlab
+jupyterlab
 scipy
 h5py
 matplotlib
